@@ -1,0 +1,184 @@
+body {
+    position: absolute;
+    width: 1440px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    
+    background: #181719;
+}
+
+.main-cont {
+    
+/* position: absolute;
+width: 1440px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #181719; */
+}
+
+.div1-cont {
+    margin-right: 85px;
+}
+
+
+.nav-item {
+    display: flex;
+    margin: 0 20px;
+    list-style: none;
+    font-size: 15px;
+    margin-left: 75px;
+    margin-bottom: 75px;
+}
+
+#img1 {
+    height: 586.5309043342426px;
+    width: 821.1140300396614px;
+    left: 1395.11376953125px;
+    top: 221px;
+    
+}
+
+#nav-list {
+    margin-left: 600px;
+    margin-bottom: 75px;
+}
+
+#img2 {
+    border-radius: 355px;
+    box-sizing: 25px;
+padding: 15px;
+width: 85px;
+height: 72px;
+left: 935px;
+top: 732px;
+}
+
+.nav-bar {
+    display: flex;
+}
+
+.main-cont {
+    display: flex;
+}
+
+#logo {
+    display: flex;
+width: 86px;
+height: 16px;
+left: 85px;
+top: 50px;
+
+font-family: 'Crimson Pro';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+box-sizing: border-box;
+
+/* position: absolute; */
+width: 102px;
+height: 32px;
+left: 77px;
+top: 42px;
+
+border: 1px solid #FFFFFF;
+
+padding-top: 5px;
+padding-bottom: 5px;
+/* padding-right: 10px; */
+/* padding-left: 10px; */
+}
+
+#h1 {
+    font-family: 'Lora';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+
+}
+
+#h2 {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+
+}
+
+#name-container {
+    margin-left: 25px;
+}
+
+#name-1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+#name-2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+/* identical to box height */
+
+
+/* Gray 3 */
+
+color: #828282;
+
+}
+
+#name-3 {
+width: 287px;
+height: 62px;
+left: 947px;
+top: 815px;
+
+font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+
+color: #FFFFFF;
+}
+.div2-cont {
+    
+}
+
+#div-4 {
+    display: flex;
+
+    position: absolute;
+width: 410px;
+height: 189px;
+left: 921px;
+top: 722px;
+
+background: #181719;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
